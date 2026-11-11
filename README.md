@@ -67,4 +67,4 @@ To bridge the gap between the current state and the desired digital future, we f
 *   **Applying DTX Principles:** Throughout the project, we applied 28 core Digital Transformation principles. A major takeaway was that *IT implementation is rarely just a technical installation; it is fundamentally an organizational change.* Aligning the IT strategy with business goals (Strategic Alignment) and avoiding isolated solutions (Holistic View) were crucial in designing a system that actually creates value.
 
 ---
-*Consultancy project executed by NEWT AB (fictional): David Palmér, Filip Sundberg, and Adam Larsson (2026).*[cite: 292]
+*Consultancy project executed by NEWT AB (fictional): David Palmér, Filip Sundberg, and Adam Larsson (2026).*
