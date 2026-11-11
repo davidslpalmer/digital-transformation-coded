@@ -38,7 +38,7 @@ We translated the new business strategy into a high-level requirements specifica
 *   **Freelancer Portal:** Automated recruitment and onboarding. Freelance teachers apply online, schedule automated video interviews (synced with management's calendar), and manage their availability.
 *   **Executive Dashboard:** Provided the new owners with real-time operational control. The dashboard tracks unique visitors, conversion funnels, revenue per course, and teacher margins, eliminating the old "gut-feeling" management style.
 
-![Conceptual Model Phase 1](assets/conceptual-model-fas1.png) *(Example placeholder for conceptual model)*
+![Conceptual Model Phase 1](assets/conceptual-model-fas1.png) 
 
 ### Phase 2: Retention & Change Management
 *   **Automated Loyalty Loop:** Post-course, the system automatically emails evaluations. Upon completion, it dynamically generates discount codes (e.g., 20% off next course or 10% for a colleague) to drive recurring revenue.
